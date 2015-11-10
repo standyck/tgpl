@@ -1,4 +1,4 @@
-// Echo3 prints its command-line arguments.
+// Echo3_Ex1.1 prints its command-line arguments with Args[0]
 package main
 
 import (
