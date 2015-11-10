@@ -1,5 +1,6 @@
 // Dup2 prints the count and text of lines that appear more than once
 // in the input.  It reads from stdin or from a list of named files.
+// $go run dup2.go dup1-in.txt dup2-arg.txt
 package main
 
 import (
