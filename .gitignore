@@ -26,3 +26,5 @@ _testmain.go
 ch01/lissajous
 ch01/out.gif
 ch01/fetch
+ch01/fetchall
+ch01/server1
