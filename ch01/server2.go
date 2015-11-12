@@ -14,9 +14,6 @@ var count int
 func main() {
 	http.HandleFunc("/count", counter)
 	http.HandleFunc("/", handler) // each request calls handler
-	// BobK:  This is just fucked, under what conditions do we log.Fatal here?
-	// I can't help but feel I am already looking at bad 'Go'
-	// Ha, ha.  Port 8000 is already in use by dynamodb-local, but no error.
 	log.Fatal(http.ListenAndServe("localhost:8080",nil))
 }
 
