@@ -6,7 +6,7 @@ WingDings Autumn 2015
 
 # Tentative Schedule
 | Date   | Moderator | Topic                                              |
-|--------+-----------+----------------------------------------------------|
+|--------|-----------|----------------------------------------------------  |
 | Nov 11 | Bob K     | CH01: Tutorial (26 Pages)                          |
 | Nov 25 |           | Thanksgiving break                                 |
 | Dec 09 | Darren    | CH02: Program Structure (24 Pages)                 |
